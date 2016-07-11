@@ -1,8 +1,24 @@
 {
-  "name" : "node-api-rest-example",
-  "version" : "0.0.1",
-  "dependencies" : {
-    "express" : "3.2.6",
-    "mongoose" : "3.6.11"
-  }
+  "name": "pizzas",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.2.6",
+    "mongoose": "3.6.11"
+  },
+  "description": "Aplicacion para demo REST con MongoDB",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lramirezq/pizzas.git"
+  },
+  "author": "Luis Ramirez Q.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lramirezq/pizzas/issues"
+  },
+  "homepage": "https://github.com/lramirezq/pizzas#readme"
 }
